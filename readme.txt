@@ -1,4 +1,5 @@
 In order to run the program, you firstly need to download the missing file yolov3.weights, which you can download from this link:
+https://www.mediafire.com/file/ym1vxo2e7isxxvt/yolov3.weights/file
 
 You also need to install some requirements, by simply running:
 pip install -r requirements.txt
